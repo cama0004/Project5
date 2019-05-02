@@ -9,3 +9,5 @@ For panel2 I included another JButton, JTextArea, JComboBox, and JLabels and JTe
 For panel3 I included the JButton "Add Station" and a JTextField that limits the user to only 4 characters. 
 
 I was unable to get the Show Station button and Add Station to funtion properly. 
+
+I also had trouble with layout formating.
